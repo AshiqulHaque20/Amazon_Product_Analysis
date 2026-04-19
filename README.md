@@ -204,7 +204,7 @@ By improving product exposure and encouraging customer interaction, businesses c
 
 ```id="amz1"
 
-amazon-product-analysis/
+Amazon_Product_Analysis/
 
 │
 
