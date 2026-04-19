@@ -212,8 +212,6 @@ amazon-product-analysis/
 
 ├── notebook/
 
-├── insights/
-
 └── README.md
 
 ```
